@@ -1,7 +1,6 @@
 ### Olá! Eu sou Andreoly Jesus 👋 
 - 🌱 Atualmente estou estudando linguagem Java.
 <div align="leaft">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
