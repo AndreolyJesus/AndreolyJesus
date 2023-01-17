@@ -2,8 +2,7 @@
 - 🌱 Atualmente estou estudando linguagem Java.
 <div align="leaft">
   <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=chartreuse-dark"
+<source ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
   media="(prefers-color-scheme: chartreuse-dark)"
 />
 <source
