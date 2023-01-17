@@ -1,9 +1,12 @@
 ### Olá! Eu sou Andreoly Jesus 👋 
 - 🌱 Atualmente estou estudando linguagem Java.
 <div align="leaft">
-  <a href="https://github.com/andreolyjesus">
-  <img height="120" src="https://github-readme-stats.vercel.app/api?username=andreolyjesus&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreolyjesus&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 </div>
   
   <div style="display: inline_block"><br>
