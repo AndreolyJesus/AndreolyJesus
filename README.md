@@ -1,16 +1,9 @@
 ### Olá! Eu sou 😃 Andreoly Jesus 👋 
 - 🌱 Atualmente estou estudando linguagem Java.
+- 💻 Trabalhando como freelancer dev back end
 <div align="leaft">
- <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: tokyonight)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme:tokyonight), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+
+  <picture>
 </picture>
 </div>
   
