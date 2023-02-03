@@ -2,9 +2,10 @@
 - 🌱 Atualmente estou estudando linguagem Java.
 - 💻 Trabalhando como freelancer dev back end
 <div align="leaft">
-
-  <picture>
-</picture>
+  
+ <img align = "center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+ <img lign = "center" alt="Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />   
+  
 </div>
   
   ##
@@ -16,4 +17,6 @@
   
    ![Snake animation](https://github.com/AndreolyJesus/AndreolyJesus/blob/output/github-contribution-grid-snake.svg)
   
+  
  </div>
+ 
