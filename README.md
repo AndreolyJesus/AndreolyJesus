@@ -1,6 +1,6 @@
 ### Olá! Eu sou 😃 Andreoly Jesus 👋 
 - 🌱 Atualmente estou estudando linguagem Java.
-- 💻 Trabalhando como freelancer dev back end
+
 <div align="leaft">
   
  <img align = "center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
