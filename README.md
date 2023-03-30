@@ -1,5 +1,5 @@
 ### Olá! Eu sou 😃 Andreoly Jesus 👋 
-- 🌱 Atualmente estou estudando linguagem Java.
+- 🌱 Atualmente estou estudando linguagem Java, Javascript e HTML.
 
 <div align="leaft">
   
