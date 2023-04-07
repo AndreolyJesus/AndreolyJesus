@@ -3,10 +3,11 @@
 
 <div align="leaft">
   
- <img align = "center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+ <img align = "superior" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
  <img lign = "center" alt="Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
   <img "center" alt="JGit" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-  <img "center" alt="JGit" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img "center" alt="JGit" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
+            <img "center" alt="JGit" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />       
           
   
 </div>
